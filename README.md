@@ -1,3 +1,5 @@
+App link: https://rag-ai-document-assistant-by-waseh-t4dznxeiqw7dvqrkmzefsd.streamlit.app/
+
 # AI Document Assistant (RAG)
 
 A simple Streamlit RAG app that lets you ask questions about documents. It supports local PDF, DOCX, TXT, and Markdown uploads, plus public/shared Google Drive file or folder links.
